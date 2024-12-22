@@ -4,7 +4,9 @@
 
 ## 🌟 Project Overview  
 
-![Overview Image](https://tse1.mm.bing.net/th?id=OIP.2lshbSH90RR3rPVLen0Z_gHaEK&pid=Api&P=0&h=180)  
+<p align="center">
+  <img src="https://tse3.mm.bing.net/th?id=OIP.7JjCwLn6qQ3Uyg9HibOdHQHaBN&pid=Api&P=0&h=400&width=800" width="100%" height="auto"/>
+</p>
 
 The **Fake News Detector** is a Data Science project that uses machine learning algorithms to identify whether a news article is **Fake** or **Real**. By leveraging Natural Language Processing (NLP) techniques and a Naive Bayes classifier, this tool automates the detection of misinformation in real-time.  
 
@@ -23,7 +25,9 @@ The **Fake News Detector** is a Data Science project that uses machine learning 
 
 ## 🧠 How It Works  
 
-![Workflow Image](https://tse4.mm.bing.net/th?id=OIP.mzstZIs3SXyM5yg2YVimvwHaD_&pid=Api&P=0&h=180)  
+<p align="center">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.2lshbSH90RR3rPVLen0Z_gHaEK&pid=Api&P=0&h=1800&width=1200" width="80%" height="auto"/>
+</p>
 
 1. **Data Collection**:  
    - A dataset containing labeled news articles (*Fake* and *Real*) is used to train the model.  
@@ -43,7 +47,3 @@ The **Fake News Detector** is a Data Science project that uses machine learning 
    - Users can paste news articles into the web app, and the model will classify them instantly based on the trained data.  
 
 ---
-
-
-
-
